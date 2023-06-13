@@ -1,5 +1,5 @@
 ---
-title: "Modeling and evaluation of dispatching policies in IaaS cloud data centers using SANs"
+title: "Modeling and Evaluation of Dispatching Policies in IaaS Cloud Data Centers using SANs"
 collection: publications
 permalink: /publication/2022-suscom
 date: 2022-10-20
